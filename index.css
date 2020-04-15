@@ -1,5 +1,14 @@
 .opening {
   font-size: 50px;
-  color: yellow; }
+  color: pink; }
+
+.row {
+  padding: 10px;
+  background-color: cyan;
+  border: 2px solid teal;
+  text-align: center; }
+
+h1 {
+  text-align: center; }
 
 /*# sourceMappingURL=index.css.map */

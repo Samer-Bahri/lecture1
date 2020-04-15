@@ -1,7 +1,18 @@
 $size: 50px;
-$color: yellow;
+$color: pink;
 
 .opening {
   font-size: $size;
   color: $color;
+}
+
+.row {
+  padding: 10px;
+  background-color: cyan;
+  border: 2px solid teal;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
 }
